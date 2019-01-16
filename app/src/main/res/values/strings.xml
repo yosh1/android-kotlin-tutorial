@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirstKotlin</string>
+    <string name="change_the_text_again">Change the text again!!</string>
+</resources>
